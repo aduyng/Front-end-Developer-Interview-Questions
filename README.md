@@ -1,39 +1,39 @@
-#Front-end Job Interview Questions
+#Câu hỏi phỏng vấn cho vị trí Front-end Developer
 
-This file contains a number of front-end interview questions that can be used when vetting potential candidates. It is by no means recommended to use every single question here on the same candidate (that would take hours). Choosing a few items from this list should help you vet the intended skills you require.
+Tài liệu này bao gồm một số các câu hỏi phỏng vấn cho vị trí Front-end Developer có thể được sử dụng trong việc đánh giá các ứng viên tiềm năng. Tài liệu này không khuyến khích sử dụng tất cả các câu hỏi cho một ứng viên vì nó rất tốn thời gian. Chọn ra một vài câu hỏi trong danh sách này có thể giúp bạn đánh giá kỷ năng mà bạn cần. 
 
-**Note:** Keep in mind that many of these questions are open-ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
+**Ghi chú**: Nên nhớ rằng khá nhiều câu hỏi trong tài liệu này là câu hỏi mở và có thể hướng đến các cuộc thảo luận lý thú, thông qua đó, có thể cho bạn biết về khả năng của ứng viên nhiều hơn là một câu trả lời trực tiếp.
 
-## Table of Contents
+## Mục Lục
 
-  1. [General Questions](#general-questions)
-  1. [HTML Questions](#html-questions)
-  1. [CSS Questions](#css-questions)
-  1. [JS Questions](#js-questions)
-  1. [Testing Questions](#testing-questions)
-  1. [Performance Questions](#performance-questions)
-  1. [Network Questions](#network-questions)
-  1. [Coding Questions](#coding-questions)
-  1. [Fun Questions](#fun-questions)
+  1. [Câu hỏi chung](#general-questions)
+  1. [Câu hỏi HTML](#html-questions)
+  1. [Câu hỏi CSS](#css-questions)
+  1. [Câu hỏi Javascript](#js-questions)
+  1. [Câu hỏi Testing](#testing-questions)
+  1. [Câu hỏi Performance](#performance-questions)
+  1. [Câu hỏi về Networks](#network-questions)
+  1. [Câu hỏi viết Code](#coding-questions)
+  1. [Câu hỏi vui](#fun-questions)
 
-## Getting Involved
+## Tham gia vào việc phát triển tài liệu này
 
-  1. [Contributors](#contributors)
-  1. [How to Contribute](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/CONTRIBUTING.md)
-  1. [License](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/LICENSE.md)
+  1. [Cộng tác viên](#contributors)
+  1. [Làm thế nào để trở thành cộng tác viên](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/CONTRIBUTING.md)
+  1. [Giấy phép](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/LICENSE.md)
 
-#### General Questions:
+#### Câu hỏi chung:
 
-* What did you learn yesterday/this week?
-* What excites or interests you about coding?
-* What is a recent technical challenge you experienced and how did you solve it?
-* What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
-* Talk about your preferred development environment.
-* Which version control systems are you familiar with?
-* Can you describe your workflow when you create a web page?
-* If you have 5 different stylesheets, how would you best integrate them into the site?
-* Can you describe the difference between progressive enhancement and graceful degradation?
-* How would you optimize a website's assets/resources?
+* Bạn đã học những gì trong ngày hôm qua / tuần này?
+* Những gì khiến bạn hứng thú cho việc coding? 
+* Hãy nói về một thách thức mà bạn gặp gần đây và cách giải quyết của bạn?
+* Những điều gì về UI, Security, Performance, SEO, Maintainability or Technology mà bạn cân nhắc khi xây dựng một ứng dụng web?
+* Hãy nói về môi trường làm việc (bao gồm cả các tools & IDE) mà bạn thích.
+* Những version control systems nào mà bạn biết?
+* Bạn có thể nói quy trình bạn tạo ra một trang web không?
+* Nếu bạn có 5 stylesheets khác nhau, cách tốt nhất để sử dụng nó vào một website là gì theo bạn?
+* Bạn có thể mô tả sự khác nhau giữa progressive enhancement và graceful degradation?
+* Bạn làm gì để optimize các static resources?
 * How many resources will a browser download from a given domain at a time?
   * What are the exceptions?
 * Name 3 ways to decrease page load (perceived or actual load time).
